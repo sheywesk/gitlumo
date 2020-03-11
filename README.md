@@ -1,5 +1,5 @@
 # gitlumo
-<p>Como usar</p>
+<h2>Como usar</h2>
 <ul> 
   <li>Navegue ate projeto</li>
   <li>Rode os comando 'yarn android' em seguida 'yarn start'</li>
